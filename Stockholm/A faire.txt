@@ -1,0 +1,10 @@
+-Mis à jour galeries photos
+-Changez paragraphe de Rudy en citation (voir bootstrap)
+-Connecter le formulaire mail à Mailchimp
+-Connecter le formulaire contact à quelquechose
+-Rajout page cet évènement sur l'ancienne page de vente.
+-Completer la page localisation avec des photos de la croisière
+-Completer la page évènement avec des photos de dallas, dubai et afrique du sud.
+-Completer la FAQ avec les questions corrigé et valider
+-Changer l'image du formulaire newsletter
+-Inserer une pagepromo pour le prochain évènement aveclemot de Jan Mary
