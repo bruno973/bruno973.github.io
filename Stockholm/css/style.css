@@ -1231,6 +1231,29 @@ body.mobile-nav-active #mobile-nav-toggle {
 # Buy Tickets Section
 --------------------------------------------------------------*/
 
+#buy-tickets .fas {
+  font-size: 5em;
+  text-align: center;
+  
+}
+#buy-tickets p {
+  
+  text-align: left;
+  
+  
+}
+
+#buy-tickets .row {
+  
+  height: 6em;
+  line-height: 6em;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  
+}
+
+
+
 #buy-tickets {
   padding: 60px 0;
 }
@@ -1679,4 +1702,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   #subscribe button {
     margin-top: 10px;
   }
+}
+
+.btn-retour {
+  background-color: #1d8005;
+  color: white;
+  position: fixed;
+  bottom: 50px;
+  margin-left: 50px; 
+
 }
