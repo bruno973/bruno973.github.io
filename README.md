@@ -4,6 +4,8 @@
 
 J'ai créer cette landing page grâce à un thème bootstrap sur lequel j'ai fait quelques modifications.
 
+Le séminaire a été organisé entièrement par mes soins avec la collaboration de nos différents intervenants et une équipe d'accueil composé de 4 volontaires.
+
 https://bruno973.github.io/
 
 ## Bilan de cet événement :
