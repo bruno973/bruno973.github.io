@@ -4,6 +4,8 @@
 
 J'ai créer cette landing page grâce à un thème bootstrap sur lequel j'ai fait quelques modifications.
 
+https://bruno973.github.io/
+
 ## Bilan de cet événement :
 
 - 3 intervenants en présentiels.
