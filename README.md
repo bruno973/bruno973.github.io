@@ -6,7 +6,7 @@ J'ai créer cette landing page grâce à un thème bootstrap sur lequel j'ai fai
 
 Le séminaire a été organisé entièrement par mes soins avec la collaboration de nos différents intervenants et une équipe d'accueil composé de 4 volontaires.
 
-https://bruno973.github.io/
+https://event.jmlassocies.com/sem-marseille/
 
 ## Bilan de cet événement :
 
